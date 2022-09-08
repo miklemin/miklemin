@@ -1,16 +1,37 @@
-### Hi there 👋
+# ___ Hello, I`m ***Mikle***___
 
-<!--
-**miklemin/miklemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I like
+- :earth_americas: _**my life**_
+- :bulb:  make your dreams come true
+- :mortar_board: constantly develop
 
-Here are some ideas to get you started:
+## My Skils and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![HTML5](https://img.shields.io/badge/html5-informational.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-informational.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JSON]( https://img.shields.io/badge/-JSON-informational?style=for-the-badge&logo=JSON)
+![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular]( https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=Angular)
+![Git](https://img.shields.io/badge/git-informational.svg?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/php-informational.svg?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/django-informational.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-informational.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Follow me
+
+[<img align="left" alt="Telegramm" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"> ][Telegramm]
+<br />
+<br />
+
+[<img align="left" alt="Email" width="32px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"> ][Email]
+<br />
+<br />
+
+[<img align="left" alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"> ][Instagram]
+
+[Telegramm]: https://t.me/mikle_min
+[Email]: mingisharov@gmail.com
+[Instagram]: https://www.instagram.com/invites/contact/?i=11dscy61z2jtx&utm_content=2xbl4pi
+
