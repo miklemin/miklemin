@@ -1,9 +1,15 @@
 # Hello, I`m ***Mikle***
 
-## I like
-- :earth_americas: _**my life**_
-- :bulb:  make your dreams come true
-- :mortar_board: constantly develop
+## I`m Full stack web developer
+
+**I like**
+- :earth_americas: _my life_
+- :bulb:  _make your dreams come true_
+- :mortar_board: _constantly develop_
+
+___and coding of course___ :computer:
+
+___
 
 ## My Skils and Tools
 
