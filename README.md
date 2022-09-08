@@ -22,14 +22,10 @@ ___
 ![Git](https://img.shields.io/badge/git-informational.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-informational.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/django-informational.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-informational.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Follow me
 
 [<img align="left" alt="Telegramm" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"> ][Telegramm]
-<br />
-<br />
-
 [<img align="left" alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"> ][Instagram]
 
 [Telegramm]: https://t.me/mikle_min
