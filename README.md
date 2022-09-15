@@ -9,6 +9,7 @@
 
 ___and coding of course___ :computer:
 
+## my resume => https://clck.ru/322szp
 ___
 
 ## My Skils and Tools
