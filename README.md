@@ -11,6 +11,7 @@ ___and coding of course___ :computer:
 
 ## my resume => https://clck.ru/322szp
 ___
+## my project https://miklemin.github.io/cars-hw/
 
 ## My Skils and Tools
 
