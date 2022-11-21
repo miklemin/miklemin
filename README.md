@@ -23,8 +23,5 @@ ___
 ## Follow me
 
 [<img align="left" alt="Telegramm" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"> ][Telegramm]
-[<img align="left" alt="Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"> ][Instagram]
 
 [Telegramm]: https://t.me/mikle_min
-
-
